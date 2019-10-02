@@ -1,0 +1,125 @@
+@media only screen and (max-width: 1500px){
+	#indicatorsCarouselIntro {
+		max-height: 1200px;
+	}
+	#indicatorsCarouselIntro img{
+		height: 60vh;
+	}
+}
+@media only screen and (max-width: 992px){
+	#indicatorsCarouselIntro img{
+		height: 45vh;
+	}
+}
+@media only screen and (max-width: 768px){
+	.innert__giveTestimonial p {
+		margin-top: 40px;
+	}
+	#indicatorsCarouselIntro img{
+		height: 35vh;
+	}
+	.alert p {
+		margin-top: 0px;
+	}
+	.contact__about__fast__info{
+		margin-top: 30px;
+		margin-bottom: 20px;
+	}
+	.aboutUs h2 {
+		margin-top: 30px;
+	}
+	.carousel-caption{
+		display: block !important;
+	}
+	.nav-item{
+		text-align: center;
+	}
+}
+@media only screen and (max-width: 620px){
+	.carousel-caption h3 {
+		text-align:center;
+	}
+	.carousel-caption p {
+		text-align:center;
+		font-size: 14px;
+	}
+	.carousel-caption a {
+		display: none!important;
+	}
+	#indicatorsCarouselIntro {
+		max-height: 1200px;
+	}
+	#indicatorsCarouselIntro img{
+		height: 350px;
+	}
+	.inner__where__is__we iframe {
+		height: 300px;
+	}
+}
+@media only screen and (max-width: 474px){
+
+	.carousel-caption p{
+		font-size: 14px;
+	}
+	#indicatorsCarouselIntro{
+		display: none;
+	}
+	.timespant p{
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+	}
+	.time__start__schedule{
+		margin-right: 0 !important;
+		margin-bottom: 20px;	
+		margin-top: 20px;	
+	}
+	.navbar-brand img {
+	    width: 160px;
+	}
+	.about__this__form p {
+		font-size: 10px;
+	}
+	.navbar-dark .navbar-brand{
+		font-size: 18px;
+	}
+	.about__this__form{
+		top: 0;
+
+		text-align: center;
+		border-radius: 7px;
+		padding:10px 0 0 0;
+	}
+	
+	.aboutUs p{
+		font-size: 16px;
+		text-align: center;
+	}
+	.contacts h2, .aboutUs h2,.forms h2,.inner__schedule h2,.innert__giveTestimonial h2,.inner__where__is__we h2{
+		font-size: 30px;
+	}
+	.inp__contact{
+		padding: 15px;
+		font-size: 16px;
+	}
+	.selectForIs{
+		padding: 15px;
+		font-size: 16px;
+	}
+	.contact__about__fast__info p{
+		font-size: 18px;
+	}
+	.contact__about__fast__info{
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+	}
+	.innert__giveTestimonial p{
+		font-size: 16px;
+		text-align: center;
+	}
+	.timespant{
+		text-align: center;
+	}
+}
