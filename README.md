@@ -1,2 +1,2 @@
 # Kids
-Created with love by Libils Team
+Pet project for learning front-end and Back-end.
